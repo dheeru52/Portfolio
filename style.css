@@ -104,7 +104,7 @@ animation-delay: 1s;
     align-items: center;
     width: 40px;
     height: 40px;
-    background: transparent;
+    background: rgb(6, 132, 155);
     border: 2px solid #0ef;
     border-radius: 50%;
     font-size: 20px;
